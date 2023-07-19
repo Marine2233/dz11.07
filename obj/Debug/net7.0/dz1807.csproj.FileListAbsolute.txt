@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\home_work1\dz1807\bin\Debug\net7.0\dz1807.exe
+C:\Users\Marina\Desktop\home_work1\dz1807\bin\Debug\net7.0\dz1807.deps.json
+C:\Users\Marina\Desktop\home_work1\dz1807\bin\Debug\net7.0\dz1807.runtimeconfig.json
+C:\Users\Marina\Desktop\home_work1\dz1807\bin\Debug\net7.0\dz1807.dll
+C:\Users\Marina\Desktop\home_work1\dz1807\bin\Debug\net7.0\dz1807.pdb
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.AssemblyInfo.cs
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.dll
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\refint\dz1807.dll
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.pdb
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\dz1807.genruntimeconfig.cache
+C:\Users\Marina\Desktop\home_work1\dz1807\obj\Debug\net7.0\ref\dz1807.dll
